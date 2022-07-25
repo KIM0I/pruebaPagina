@@ -1,2 +1,2 @@
 # pruebaPagina
-[Link] (https://kim0i.github.io/pruebaPagina/)
+[Link](https://kim0i.github.io/pruebaPagina/)
